@@ -3,9 +3,9 @@
 <addon id="repository.streamwiz" name="Streamwiz Repo" version="1.0" provider-name="Streamwiz Entertainment">
 	<extension point="xbmc.addon.repository" name="Name you want to appear in Kodi">
 		<dir>
-			<info compressed="false">https://github.com/timhermanjones/Streamwiz/zips/addons.xml</info>
-			<checksum>https://github.com/timhermanjones/Streamwiz/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://github.com/timhermanjones/Streamwiz/zips/</datadir>
+			<info compressed="false">https://github.com/timhermanjones/Streamwiz/tree/master/zips/addons.xml</info>
+			<checksum>https://github.com/timhermanjones/Streamwiz/tree/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/timhermanjones/Streamwiz/tree/master/zips</datadir>
 		</dir>
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
